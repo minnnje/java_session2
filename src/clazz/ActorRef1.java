@@ -1,6 +1,7 @@
 package clazz;
 
-public class ActorRef1 {
+public class
+ActorRef1 {
     public static void main(String[] args) {
         String[] actorName = {"구교환", "박정민"};
         int[] actorAge = {40, 35};

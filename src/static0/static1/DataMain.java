@@ -6,8 +6,6 @@ public class DataMain {
         Data data2 = new Data("data2");
         Data data3 = new Data("data3");
 
-        System.out.println("data1.count = " + data1.count);
-        System.out.println("data2.count = " + data2.count);
-        System.out.println("data3.count = " + data3.count);
+        System.out.println("data1.count = " + Data.count);
     }
 }
